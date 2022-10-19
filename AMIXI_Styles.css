@@ -1,0 +1,177 @@
+
+
+body {
+    font-family: Roboto, sans-serif;
+      background-color:#f8f8f8;
+}
+
+h1 {
+    margin-left: 50px;
+    font-size: 2em;
+}
+
+#navbar {
+    background-color: #10A3E1;
+}
+
+.top {
+    margin-left: 50px;
+    color: #00aeeb;
+}
+
+.mainlogo {
+    width: 100%;
+    
+}
+
+#underlogo {
+    background-color: #f8f8f8;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+}
+
+#bio {
+    background-color: #e5e3e3;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#listquote {
+    padding-bottom: 25px;
+}
+
+.listitems {
+    font-size: 1.3em;
+}
+#secondlevel {
+  
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+
+   
+
+}
+#scondlevelcol {
+    border: #1d1f1d solid;
+}
+
+#sometext {
+    padding-top: -100px;
+    padding-bottom: -100px;
+}
+
+#potato {
+    background-color: #f8f8f8;
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+
+#testphotos {
+    height: 400px;
+    width: 400px;
+}
+
+#thirdlevel {
+    background-color: #f8f8f8;
+    padding-top: 50px;
+    padding-bottom: 100px;
+   
+}
+.bio {
+    font-size: 1.5em;
+}
+
+#notpotato {
+    background-color: #716862;
+    padding-top:50px;
+}
+
+#third {
+    background-color: #1d1f1d;
+    color: #f8f8f8;
+}
+
+#toplevel {
+    color: #f8f8f8;
+    background-color: black;
+    margin: -50px;
+    
+  
+}
+
+#Reviews {
+    margin-bottom: 50px;
+}
+
+#reviewslides {
+    padding: 50px;
+    margin-bottom: 50px;
+    width: max-content;
+    height: fit-content;
+}
+
+#ReviewButton {
+    margin-top: 20px;
+}
+  
+  .item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 300px;
+  }
+
+.carousel-item{
+    height: 200px;
+
+  }
+#pixelmountain {
+    background-color: grey;
+    color: white;
+    font-size: small;
+    padding: 25px;
+}
+
+#requestpage {
+    background-color:black;
+    color: #f8f8f8;
+}
+
+#submitbutton {
+    margin-top: 30px
+}
+ 
+.RequestForm {
+    padding-top: 50px;
+    padding-left: 20px;
+
+}
+
+.RequestFormPage {
+    background-color: black;
+}
+
+#lastrow {
+    background-color: #f8f8f8;
+    padding-bottom: 50px;
+    padding-top: 25px;
+
+}
+
+.ThankYou {
+    padding-top: 100px;
+    color: #f8f8f8;
+    background-color: black;
+}
+#ThankYouMessage {
+    color: #f8f8f8;
+}
+
+#lastlevel {
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
