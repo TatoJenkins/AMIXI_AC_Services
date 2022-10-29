@@ -46,6 +46,10 @@ body {
     
 }
 
+#about {
+    margin-top: -50px;
+}
+
 #underlogo {
     background-color: #f8f8f8;
     padding-top: 100px;
@@ -184,7 +188,7 @@ body {
 }
 
 #submitbutton {
-    margin-top: 30px
+    margin-top: 30px;
 }
  
 .RequestForm {
